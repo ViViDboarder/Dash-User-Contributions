@@ -1,10 +1,13 @@
-Salesforce Lightning Dash Docs
-=======================
+Salesforce Apex
+===============
 
-Salesforce Lightning documentation for Dash. Original docs taken from https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/intro_framework.htm.
+Created by [ViViDboarder](https://github.com/ViViDboarder)
 
-**Author:** Matt Goldspink [@mattgoldspink](https://twitter.com/mattgoldspink) [github.com/mattgoldspink](https://github.com/mattgoldspink)
+## Generation
 
-For instructions on how to generate please see the README at [mattgoldspink/docset-sfdc](https://github.com/mattgoldspink/docset-sfdc). 
+* Clone the repo for [docset-sfdc](https://github.com/ViViDboarder/docset-sfdc)
+* Run `make` as described in the readme
 
-Based on the great work by [ViViDboarder/docset-sfdc](https://github.com/ViViDboarder/docset-sfdc).
+## Dependencies
+
+To avoid redundancy, those are listed on the readme for the other repo

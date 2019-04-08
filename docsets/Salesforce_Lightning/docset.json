@@ -1,18 +1,15 @@
 {
     "name": "Salesforce Lightning",
-    "version": "40.0",
+    "version": "210.0",
     "archive": "Salesforce_Lightning.tgz",
     "author": {
-        "name": "Matt Goldspink",
-        "link": "https://lightningforjsdevelopers.com"
+        "name": "ViViDboarder",
+        "link": "https://github.com/ViViDboarder"
     },
-    "aliases": ["Lightning", 
-                "Lightning Components"],
-
-    "specific_versions": [
-        { 
-            "version": "40.0",
-            "archive": "versions/40.0/Salesforce_Lightning.tgz",
-        }
-    ]
+    "aliases": [
+        "lightning",
+        "salesforce",
+        "sfdc"
+    ],
+    "specific_versions": []
 }
